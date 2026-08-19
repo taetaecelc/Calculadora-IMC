@@ -1,0 +1,28 @@
+
+input{
+    background-color: rgb(207, 226, 207);
+    border-radius: 10px;
+    font-size: x-large;
+}
+
+#botao{
+    background-color: black;
+    color: azure;
+    padding: 10px;
+}
+
+#card{
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 0 auto;
+    gap: 20px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+body{
+    background-color: rgb(198, 233, 206);
+}
+
